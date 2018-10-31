@@ -1,0 +1,138 @@
+.topbar#adminbar {
+	position: relative;
+	/*background-color: #2867A6;*/
+	background: linear-gradient(#3076C1, #2A5E9A);
+    height: 30px;
+    width: 40%;
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+    padding: 10px 0;
+	margin-top: 120px;
+	margin-left:25px;
+}
+#admineditform {
+	width: 40%;
+	left: 25px;
+	/*padding-left:25px;*/
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+	position: relative;
+	border-radius: 0px 0px 15px 15px;
+}
+.adminedit {
+	position: relative;
+	width: 90%;
+	left: 45px;
+}
+.adminbutton {
+	position:relative;
+	left:38%;
+}
+/****ADD USER****/
+.topbar#adm_add_user {
+	position: relative;
+	/*background-color: #2867A6;*/
+	background: linear-gradient(#3076C1, #2A5E9A);
+    height: 30px;
+    width: 50%;
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+    padding: 10px 0;
+	margin-top: 120px;
+	margin-left:25px;
+}
+#adm_add_user_form {
+	width: 50%;
+	left: 25px;
+	/*padding-left:25px;*/
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+	position: relative;
+	border-radius: 0px 0px 15px 15px;
+}
+.adm_add_user_tbl {
+	position: relative;
+	width: 90%;
+	left: 45px;
+}
+.adm_add_user_btn {
+	position:relative;
+	left:38%;
+}
+/****END ADD USER***/
+
+/****EDIT USER****/
+.topbar#adm_edit_user {
+	position: relative;
+	/*background-color: #2867A6;*/
+	background: linear-gradient(#3076C1, #2A5E9A);
+    height: 30px;
+    width: 50%;
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+    padding: 10px 0;
+	margin-top: 120px;
+	margin-left:25px;
+}
+#adm_edit_user_form {
+	width: 50%;
+	left: 25px;
+	/*padding-left:25px;*/
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+	position: relative;
+	border-radius: 0px 0px 15px 15px;
+}
+.adm_edit_user_tbl {
+	position: relative;
+	width: 90%;
+	left: 45px;
+}
+.adm_edit_user_btn {
+	position:relative;
+	left:38%;
+}
+/****END EDIT USER****/
+
+/****DELETE USER****/
+.topbar#userconlist {
+	position: relative;
+	/*background-color: #2867A6;*/
+	background: linear-gradient(#3076C1, #2A5E9A);
+    height: 30px;
+    width: 90%;
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+    padding: 10px 0;
+	margin-top: 120px;
+	margin-left:25px;
+}
+.userconlist_table{
+	width: 90%;
+	left: 25px;
+	/*padding-left:25px;*/
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+	background-color: #ffffff;
+	position: relative;
+	border-radius: 0px 0px 15px 15px;
+}
+#back{
+	position: relative;
+	margin-left: 30px;
+}
+#adminnotice{
+	position: relative;
+	margin-left: 30px;
+}
+
+
+
+
+
+
+

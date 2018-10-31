@@ -1,0 +1,47 @@
+***************************************************
+*************** TASKS TO COMPLETE *****************
+***************************************************
+
+<><><><><><><><><> CONTRACT SYSTEM <><><><><><><><><>
+	
+>>>Add *Notes*/Instructions where applicable
+
+>>>*****MILESTONES***** based on contract type (reporting) 90,60,30 day notices, all contracts, responsible parties get emailed.
+
+>>>Intranet Link
+
+	
+>>fulldisplay.php
+	-edit all Errors and messages so they are displayed properly
+	
+	
+
+
+Create Admin page 
+>>>Form for adding/deleting/editing departments 
+>>>Form for adding/deleting/editing users *****DONE
+>>>Form to delete records 
+>>>Creating SuperUsers   *****DONE
+>>>View All users and roles
+>>>View ALL departments
+
+>>>Add $_SERVER['LOGON_USER'] for reporting changes to the DB.  store usernames on 'last edits'
+
+>>>ContractUsers table
+	-Add Windows/Claxton logon (i.e. 'CLAXTON\robbg') column
+	-Add Active/Inactive column (boolean)
+
+>>>Edit Help pdf to explain CMS security 
+
+>>>Archiving!!!  Need a way to archive a contract (besides uploading a new file)
+	-Archive individual files
+	-Making the contract inactive will hide it
+	-Inactive contracts need to be hidden from: Vendor Search, Department Search, Text Search, Reports
+	-Add Inactive/Expired Contract search/view to existing.php
+	
+>>>Kim Holmes Meeting: wants to have a SUB-category for contracts.  is going to break it down and figure out what would go where		
+						and what these categories would be.  will get back to messages
+						
+>>>Jackson: set up auto renew deadline date - a date by which a contract can be terminated BEFORE it is auto-renewed
+
+
